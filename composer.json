@@ -20,7 +20,7 @@
         "issues": "https://github.com/sebastianbergmann/dbunit/issues"
     },
     "require": {
-        "php": "^8.0",
+        "php": ">=7.4",
         "phpunit/phpunit": "^9.5",
         "symfony/yaml": "^3.0 || ^4.0",
         "ext-pdo": "*",
